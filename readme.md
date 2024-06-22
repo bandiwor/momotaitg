@@ -21,7 +21,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    https://github.com/bandiwor/momotaitg.git
     cd your-repo-name
     ```
 
