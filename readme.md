@@ -22,7 +22,7 @@
 
     ```bash
     https://github.com/bandiwor/momotaitg.git
-    cd your-repo-name
+    cd momotaitg
     ```
 
 2. Создайте виртуальное окружение:
